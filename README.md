@@ -1,1 +1,2 @@
-# Graduation-Testing-automation-project
+# Automation Testing Project
+Selenium + TestNG + POM
